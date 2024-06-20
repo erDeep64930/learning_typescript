@@ -11,3 +11,16 @@ git push -u origin
 typescript work for development and not for production
 
 ---------
+
+inbuilt type of typescript ~~
+
+
+number 
+string 
+arr[]
+boolean
+
+--------
+type alias for custom type
+-------
+
