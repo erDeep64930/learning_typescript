@@ -1,2 +1,9 @@
 what is typescript ?
   ---typescript is a javascript syntax for typescript
+
+---------
+git add .
+git commit -m "this is changed"
+git push -u origin 
+
+-----------
