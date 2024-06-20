@@ -11,3 +11,16 @@ function getTotal(numbers){
     },0)
 }
 console.log(getTotal([3,5,9]));
+
+
+type User ={
+    name:string;
+    age:number;
+    address:string;
+}
+
+const user:User = {
+    name:"dhruvi",
+    age:2,
+    address:"delhi",
+}

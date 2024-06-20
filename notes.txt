@@ -3,7 +3,7 @@ what is typescript ?
 
 ---------
 git add .
-git commit -m "this is changed"
+git commit -m "changed has been added"
 git push -u origin 
 
 -----------

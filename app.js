@@ -9,3 +9,8 @@ function getTotal(numbers) {
     }, 0);
 }
 console.log(getTotal([3, 5, 9]));
+var user = {
+    name: "dhruvi",
+    age: 2,
+    address: "delhi",
+};
