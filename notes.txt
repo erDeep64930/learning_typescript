@@ -7,3 +7,7 @@ git commit -m "this is changed"
 git push -u origin 
 
 -----------
+
+typescript work for development and not for production
+
+---------
